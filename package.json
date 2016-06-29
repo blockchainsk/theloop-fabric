@@ -10,51 +10,37 @@
   "readme": "README.md",
   "_from": "ibm-blockchain-js@1.2.3",
   "bugs": {
-    "url": "https://github.com/IBM-Blockchain/ibm-blockchain-js/issues",
+    "url": "https://github.com/theloopkr/theloop-fabric"
 
   },
   "dependencies": {
     "async": "1.5.0"
   },
-
-  "devDependencies": {
-    "tape": "latest"
-  },
   "directories": {},
-  "dist": {
-    "shasum": "709a4b5c188193cb0281e049d0d4e5c06a873638",
-    "tarball": "https://registry.npmjs.org/ibm-blockchain-js/-/ibm-blockchain-js-1.2.3.tgz"
-  },
   "gitHead": "3ad302d3fa987071f66d74f6eedf815270257a4d",
-  "homepage": "https://github.com/IBM-Blockchain/ibm-blockchain-js#readme",
+  "homepage": "https://github.com/theloopkr/theloop-fabric#readme",
   "keywords": [
     "ibm",
     "blockchain",
     "obc",
     "peer",
     "node",
-    "hyperledger"
+    "hyperledger",
+    "fabric",
+    "theloop",
+    "yellowfg",
+    "chaincode"
   ],
   "license": "Apache-2.0",
-
   "maintainers": [
     {
-      "email": "benjsmi@us.ibm.com",
-      "name": "benjsmi"
-    },
-    {
-      "email": "dshuffma@us.ibm.com",
-      "name": "dshuffma-ibm"
+      "email": "pop@nomadconnection.com",
+      "name": "Piter Ryu (DongOk Ryu)"
     }
   ],
   "optionalDependencies": {},
-
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IBM-Blockchain/ibm-blockchain-js.git"
+    "url": "git+https://github.com/theloopkr/theloop-fabric.git"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "version": "1.2.3"
 }
